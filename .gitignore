@@ -1,6 +1,10 @@
 # Carpeta de códigos QR generados (datos de clientes)
 qr_clientes/
 
+# Keep docs structure but ignore large images temporarily
+# docs/images/*.png
+# docs/images/*.jpg
+
 # Maven
 target/
 pom.xml.tag
