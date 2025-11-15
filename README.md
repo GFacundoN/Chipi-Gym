@@ -484,7 +484,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 If you encounter any issues or have questions:
 
 - Open an [Issue](https://github.com/GFacundoN/Chipi-Gym/issues)
-- Contact: [Your Email]
+- Contact: [gandolfofacundonicolas@gmail.com]
 
 ---
 
