@@ -440,7 +440,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ### 👤 Autor
 
-**Facundo Gomez**
+**Facundo Nicolas Gandolfo**
 - GitHub: [@GFacundoN](https://github.com/GFacundoN)
 
 ### 🙏 Agradecimientos
@@ -460,7 +460,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ![QR Check-In](docs/images/checkin.png)
 
 ### Client Management
-![Client Management](docs/images/clients.png)
+![Client Management](docs/images/cliente.png)
 
 ---
 
